@@ -1,0 +1,11 @@
+/* Add your CSS here */
+
+
+/* Logo Height on Scroll */
+.header.headhesive.headhesive--stick .logo img {
+	/*height: 28px;*/
+}
+
+.entry-date{
+ 	color:#fd9482;!important;
+  }
